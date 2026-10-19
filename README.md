@@ -51,4 +51,4 @@ Since FlavorHub is built as a pure frontend single-file application, no complex 
 
 1. **Clone or Download** the repository to your local machine:
    ```bash
-   git clone [https://github.com/your](https://github.com/your)
+   git clone https://github.com/saliyaymd05-pixel/Flavorhup-website/tree/main
